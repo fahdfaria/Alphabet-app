@@ -1,0 +1,132 @@
+[{
+		"letter": "A",
+		"images": ["./images/Abby.jpg", "assets/images/Apple.png", "./images/Alligator.jpg", "assets/images/Ant.png"],
+		"captions":["", "Apple", "Alligator", "Ant"]
+	},
+	{
+		"letter": "B",
+		"images": ["assets/images/Bird.png", "assets/images/Blueberries.png", "assets/images/Banana.png", "assets/images/Broccoli.png"],
+		"captions":["Bird", "Blueberries", "Banana", "Broccoli"]
+	},
+	{
+		"letter": "C",
+		"images": ["assets/images/Cat.png", "assets/images/Car.png", "assets/images/Cucumber.png", "assets/images/Chicken.png"],
+		"captions":["Cat", "Car", "Cucumber", "Chicken"]
+	},
+	{
+		"letter": "D",
+		"images": ["assets/images/Duck.png", "assets/images/Dog.png", "assets/images/Dinosaur.png", "assets/images/Doll.png"],
+		"captions":["Duck", "Dog", "Dinosaur", "Doll"]
+	},
+	{
+		"letter": "E",
+		"images": ["assets/images/Elephant.png", "assets/images/Eggs.png", "./images/Ernie.jpg", ""],
+		"captions":["Elephant", "Eggs", "", ""]
+	},
+	{
+		"letter": "F",
+		"images": ["assets/images/Frog.png", "assets/images/Fish.png", "assets/images/Fly.png" ,"assets/images/Flower.png"],
+		"captions":["Frog", "Fish", "Fly", "Flower"]
+	},
+	{
+		"letter": "G",
+		"images": ["assets/images/Giraffe.png", "Grapes", "assets/images/Guitar.png", "assets/images/Goat.png"],
+		"captions":["Giraffe", "", "Guitar", "Goat"]
+	},
+	{
+		"letter": "H",
+		"images": ["assets/images/Hat.png", "assets/images/Heart.png", "assets/images/House.png", "assets/images/Hammer.png"],
+		"captions":["Hat", "Heart", "House", "Hammer"]
+	},
+	{
+		"letter": "I",
+		"images": ["Ice cream", "Insect", "Ice"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "J",
+		"images": ["Jar", "Jam", "Jewels"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "K",
+		"images": ["Kangaroo", "Key", "assets/images/Kiwi.png", ""],
+		"captions":["", "", "Kiwi", ""]
+	},
+	{
+		"letter": "L",
+		"images": ["assets/images/Lemon.png", "Lion", "Light", "Leaf"],
+		"captions":["Lemon", "", ""]
+	},
+	{
+		"letter": "M",
+		"images": ["assets/images/Mouse.png", "assets/images/Monkey.png", "Moon", ""],
+		"captions":["Mouse", "Monkey", "", ""]
+	},
+	{
+		"letter": "N",
+		"images": ["Nose", "Nine", "Nut"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "O",
+		"images": ["Orange", "Onion", "assets/images/Owl.png", "assets/images/Octopus.png"],
+		"captions":["", "", "Owl", "Octopus"]
+	},
+	{
+		"letter": "P",
+		"images": ["Panda", "Pencil", "Pig", "assets/images/Penguin.png"],
+		"captions":["", "", "", "Penguin"]
+	},
+	{
+		"letter": "Q",
+		"images": ["Queen", "Question", "Quarter"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "R",
+		"images": ["assets/images/Rainbow.png", "assets/images/Rabbit.png", "assets/images/Ring.png", "assets/images/Rooster.png"],
+		"captions":["Rainbow", "Rabbit", "Ring", "Rooster"]
+	},
+	{
+		"letter": "S",
+		"images": ["assets/images/Sheep.png", "assets/images/Snake.png", "assets/images/Strawberries.png", "assets/images/Shoes.png"],
+		"captions":["Sheep", "Snake", "Strawberries", "Shoes"]
+	},
+	{
+		"letter": "T",
+		"images": ["assets/images/Turtle.png", "assets/images/Train.png", "Tomato", "assets/images/Tiger.png"],
+		"captions":["Turtle", "Train", "Tomato", "Tiger"]
+	},
+	{
+		"letter": "U",
+		"images": ["assets/images/Umbrella.png", "assets/images/Unicorn.png", "Ukelele", ""],
+		"captions":["Umbrella", "Unicorn", "", ""]
+	},
+	{
+		"letter": "V",
+		"images": ["Vase", "Violin", "Vegetables"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "W",
+		"images": ["assets/images/Whale.png", "Watermelon", "assets/images/Watch.png", "assets/images/Wagon.png"],
+		"captions":["Whale", "", "Watch", "Wagon"]
+	},
+	{
+		"letter": "X",
+		"images": ["Xilophone", "Box", "Fox"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "Y",
+		"images": ["Yes", "Yellow", "Yoyo"],
+		"captions":["", "", ""]
+	},
+	{
+		"letter": "Z",
+		"images": ["Zoo", "assets/images/Zebra.png", "Zaara"],
+		"captions":["", "Zebra", ""]
+	}
+
+]
